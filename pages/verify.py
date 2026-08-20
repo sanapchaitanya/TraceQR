@@ -1,5 +1,6 @@
 import streamlit as st
 from user_agents import parse
+from streamlit_geolocation import streamlit_geolocation
 
 from database import (
     get_all_products,
