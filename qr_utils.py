@@ -6,7 +6,7 @@ from io import BytesIO
 SECRET = "traceqr-secret-key"
 
 # CHANGE THIS to your laptop's IPv4 address
-BASE_URL = "http://192.168.1.38:8501"
+BASE_URL = "https://traceqr-qgk2uvdvnakc7r9vbfcw7p.streamlit.app/"
 
 
 def sign(product_id: str) -> str:
