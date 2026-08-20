@@ -1,0 +1,7 @@
+streamlit
+sqlalchemy
+qrcode[pil]
+pandas
+plotly
+user-agents
+streamlit-geolocation
